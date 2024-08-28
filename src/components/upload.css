@@ -1,0 +1,16 @@
+.menu{
+   /* background-position-x: -100px; */
+   position: relative;
+   top:-50px;
+   transition: 1.5s ease-out;
+}
+.hiddenn{
+    display: none;
+}
+.visible{
+    display: inherit;
+}
+li:hover{
+    /* background: linear-gradient(500deg,rgb(244, 242, 242),white); */
+    color: #605bff;
+}
